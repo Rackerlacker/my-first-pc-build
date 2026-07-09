@@ -22,6 +22,12 @@ Little did I know that the research and process behind building my PC would star
 | PSU | MSI MAG A650BN |
 | Case | Montech AIR 100 ARGB |
 
+### Why I Chose These Parts
+
+The RTX 3070 was chosen because it provided strong gaming performance at the resolution and settings I wanted.
+
+The Ryzen 5 5600G was chosen because it provided good value and enough CPU performance for gaming and everyday use.
+
 ---
 
 ## Build Process
@@ -58,7 +64,7 @@ I learnt that prewiring is very useful.
 
 I learnt that GPU sag brackets do not need to be expensive, and temporary solutions can work. My bracket was made from LEGO.
 
-I learnt that the PC will take extra long to POST the first time you turn it on.
+I learnt that the PC will take extra long to POST the first time you turn it on. This happens because the motherboard performs hardware checks and memory training.
 
 ---
 
@@ -68,9 +74,9 @@ I learnt that the PC will take extra long to POST the first time you turn it on.
 
 -I was experiencing lots of trouble on how to screw my Motherboard to the standoffs on the case. But I realised I was using the wrong screws after reading the Case manual and managed to screw down the Motherboard correctly.
 
--I initially installed the PSU in the wrong orientation, causing it to draw air from inside the Case instead of taking in cooler air from underneath the Case. So I unplugged all of the cables and reseated the PSU to let it intake cool air from under the Case.
+-I initially installed the PSU in the wrong orientation, causing it to draw warmer air from inside the case instead of cooler air from outside the case. So I unplugged all of the cables and reseated the PSU to let it intake cool air from under the Case.
 
--I plugged my CPU cooler into the wrong pins on my motherboard meaning that its ARGB was not working I connected the CPU cooler incorrectly, causing the fan and ARGB lighting to not work correctly. I fixed this by connecting the fan cable to the CPU_FAN header and the ARGB cable to the correct RGB header.
+-I connected my CPU cooler incorrectly, causing the fan and ARGB lighting to not work correctly. I fixed this by connecting the fan cable to the CPU_FAN header and the ARGB cable to the correct RGB header.
 
 -The Case fan RGB lighting was not working because I had forgotten to connect the SATA power cable from the PSU to the RGB/fan hub.
 
@@ -98,7 +104,7 @@ I learnt that the PC will take extra long to POST the first time you turn it on.
 
 -More storage, as games and applications can quickly use up space.
 
--A better CPU, such as a Ryzen 7 5800X, to have more cores to run more applications
+-A better CPU, such as a Ryzen 7 5800X, for improved multi-core performance and better performance in CPU-heavy games.
 
 -Better cooling to improve temperatures and reduce noise.
 
