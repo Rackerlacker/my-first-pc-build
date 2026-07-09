@@ -4,7 +4,7 @@
 
 This is the first PC I have ever built.
 
-I built it when I was 13 years old on the 13th of February becuase I wanted a better gaming experience.
+I built it when I was 13 years old on the 13th of February because I wanted a better gaming experience.
 
 Little did I know that the research and process behind building my PC would start a journey of learning about computers and eventually inspire me to become a hardware engineer.
 
@@ -36,7 +36,7 @@ The Ryzen 5 5600G was chosen because it provided good value and enough CPU perfo
 
 I learnt that the CPU only fits in one way because of the socket design.
 
-I learnt that to install the ram you need to apply a lot more pressure than you might think.
+I learnt that to install the RAM you need to apply a lot more pressure than you might think.
 
 I learnt that M.2 SSDs should be installed at an angle before being pushed down and secured with a screw. This keeps the drive firmly connected and prevents movement.
 
@@ -56,7 +56,7 @@ I also learnt that installing the I/O shield is a pain. But, it is necessary to 
 
 ### -Final steps
 
-I learnt that cable management is definately worth the time and effort.
+I learnt that cable management is definitely worth the time and effort.
 
 I learnt that not all cases have an RGB/fan hub.
 
@@ -72,7 +72,7 @@ I learnt that the PC will take extra long to POST the first time you turn it on.
 
 ### Here are some challenges I faced during my first PC build:
 
--I was experiencing lots of trouble on how to screw my Motherboard to the standoffs on the case. But I realised I was using the wrong screws after reading the Case manual and managed to screw down the Motherboard correctly.
+-I was experiencing lots of trouble trying screw my Motherboard to the standoffs on the case. But I realised I was using the wrong screws after reading the Case manual and managed to screw down the Motherboard correctly.
 
 -I initially installed the PSU in the wrong orientation, causing it to draw warmer air from inside the case instead of cooler air from outside the case. So I unplugged all of the cables and reseated the PSU to let it intake cool air from under the Case.
 
@@ -110,7 +110,7 @@ I learnt that the PC will take extra long to POST the first time you turn it on.
 
 -A nicer case with better airflow and improved cable management.
 
--A better GPU, such as the 7800XT to play some more GPU demanding games
+-A better GPU, such as the 7800XT to play more GPU intensive games
 
 ---
 
