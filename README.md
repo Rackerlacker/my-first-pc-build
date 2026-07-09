@@ -16,7 +16,7 @@ Little did I know that the research and process behind building my PC would star
 |-----------|-------|
 | CPU | AMD Ryzen 5 5600G |
 | GPU | NVIDIA RTX 3070 |
-| RAM | 32GB DDR4-3200 CL30 |
+| RAM | 32GB DDR4-3200 CL16 |
 | Storage | 1TB M.2 NVME SSD |
 | Motherboard | ASUS PRIME B550M A-WIFI II |
 | PSU | MSI MAG A650BN |
