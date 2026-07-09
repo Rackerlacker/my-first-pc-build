@@ -6,7 +6,7 @@ This is the first PC I have ever built.
 
 I built it when I was 13 years old on the 13th of February becuase I wanted a better gaming experience.
 
-Little did I know that the research and process that led up to the process of me building my pc put me on a journey to learn everything about computers and eventually become a hardware engineer. 
+Little did I know that the research and process behind building my PC would start a journey of learning about computers and eventually inspire me to become a hardware engineer.
 
 ---
 
